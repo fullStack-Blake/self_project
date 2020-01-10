@@ -1,8 +1,9 @@
 //
 //  myString.hpp
-//  first_project
+//  My String Class
 //
-//  Created by 엽쌍 on 2020-01-09.
+//  Created by SangYeup Han
+//  Referenced from modoocode.com
 //  Copyright © 2020 blake. All rights reserved.
 //
 
