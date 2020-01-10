@@ -7,10 +7,14 @@
 //
 
 #include <iostream>
+#include <string.h>
+#include "myString.hpp"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    std::cout << "bye";
-    return 0;
+int main() {
+    MyString str1("My string");
+    MyString str2(str1);
+    
+    
+    str1.print();
+    str2.print();
 }
